@@ -1,0 +1,21 @@
+body {
+  position: relative;
+}
+div {
+  width: 600px;
+  height: 500px;
+  float: left;
+  margin: 70px;
+}
+h1 {
+  position: absolute;
+  left: 1000px;
+  color: #f00;
+  display: inline;
+}
+h4 {
+  color: blue;
+}
+p {
+  text-align: justify;
+}
